@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- All %s must remain in string but can change position -->
+	<string id="32000">Idle Timeout (MIN)</string>
+	<string id="32001">CEC Standby</string>
+</strings>
